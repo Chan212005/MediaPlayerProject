@@ -9,7 +9,7 @@ Second Step: control + j, in this part you will see the terminal and on the righ
 
 Third Step: Click it and selec the "GIT BASH". 
 
-Fourth Step: run these commands 1st(cd..) 2nd(javac - d bin $(find src - name "*.java"0))  3rd(javac - op bin refactored.RefactoredDemo) 
+Fourth Step: run these commands 1st(cd..) 2nd(javac - d bin $(find src - name "*.java"))  3rd(javac - op bin refactored.RefactoredDemo) 
 
 NOTE: IN THESE COMMAND WILL GUARANTEE YOU TO ACCURATELY GET THE OUTPUT.
 
