@@ -4,9 +4,13 @@ PROJECT NAME: MEDIAPLAYER
 
 AND HOW TO COMPILE AND RUN: 
 First Step Open vscode and make sure all the class there are connected to each other. 
+
 Second Step: control + j, in this part you will see the terminal and on the right upper corner you must see the facing dwon arrow sign. 
+
 Third Step: Click it and selec the "GIT BASH". 
+
 Fourth Step: run these commands 1st(cd..) 2nd(javac - d bin $(find src - name "*.java"0))  3rd(javac - op bin refactored.RefactoredDemo) 
+
 NOTE: IN THESE COMMAND WILL GUARANTEE YOU TO ACCURATELY GET THE OUTPUT.
 
 AND THESE ARE THE LIST OF PATTERN I USED IN THIS ACTIVITY
