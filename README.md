@@ -31,7 +31,7 @@ AND ALSO THESE SUMMARIZE THE DEMMO
 - STRATEGY PATTERN -
 - in this part of the demmo shows switching between hardware and software just like what the activity ask us to execute, and rendering strategies during playback.
 
-- PROCY PATTERN -
+- PROXY PATTERN 
 - in this section of the demmo  does displays the caching behavior and the first play fetches from the remote API and the second execute and uses the cached version.
 
 - COMPOSITE PATTERN -
